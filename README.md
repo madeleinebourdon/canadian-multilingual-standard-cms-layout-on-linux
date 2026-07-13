@@ -1,2 +1,2 @@
-# canadian-multilingual-standard-cms-layout-on-linux
+# Canadian Multilingual Standard Layout on Linux
 Add Windows' Canadian Multilingual Standard (= CMS) key layout to Linux
